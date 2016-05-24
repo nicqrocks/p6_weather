@@ -5,10 +5,9 @@ This will include:
     -temperature
     -possibility of precipitation
     -wind speed
-    -humidex
-    -windchill
 
-This info will only be provided for the current day.
+This info will only be provided for the current day, using the OpenWeatherMap
+service.
 
 
 ####Source
